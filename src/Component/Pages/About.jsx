@@ -150,7 +150,7 @@ const About = () => {
                                         <a class="btn btn-square btn-primary rounded-circle" href="#"><i class="fab fa-twitter"></i></a>
                                         <a class="btn btn-square btn-primary rounded-circle" href="#"><i class="fab fa-instagram"></i></a>
                                     </div>
-                                </div>
+                         </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
