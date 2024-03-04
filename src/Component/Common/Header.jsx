@@ -34,7 +34,7 @@ const Header = () => {
                 <div class="row align-items-center top-bar">
                     <div class="col-lg-4 col-md-12 text-center text-lg-start">
                         <a href="#" class="navbar-brand m-0 p-0">
-                            <h1 class="fw-bold text-primary m-0"><i class="fa fa-laptop-code me-3"></i>JIC IT Solution</h1>
+                            <h1 class="fw-bold text-primary m-0"><i class="fa fa-laptop-code me-3"></i>Atikaya</h1>
                             {/* <!-- <img src="img/logo.png" alt="Logo"> --> */}
                         </a>
                     </div>
@@ -108,7 +108,7 @@ const Header = () => {
                     <a href="#" class="btn btn-sm btn-light rounded-pill py-2 px-4 d-none d-lg-block">Get Started</a>
                 </div>
             </nav>
-             {/* Navbar End  */}
+            {/* Navbar End  */}
         </div>
     )
 }
